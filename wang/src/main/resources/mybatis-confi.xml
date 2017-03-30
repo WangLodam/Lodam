@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 配置configuration -->
+<configuration>
+    <!-- 加载配置文件 -->
+    <properties resource="jdbc.properties"></properties>
+     <!-- 定义具体的别名 -->
+    <typeAliases>
+    </typeAliases>
+
+
+
+</configuration>
